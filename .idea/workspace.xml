@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d65886f6-12b8-4453-a6c9-6c81eca3bb27" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g60131/atlg/turingmachine/view/FxGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g60131/atlg/turingmachine/view/FxGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YCwt3Tu30eUOZp80UUcbAGnjac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "G:/Mon Drive/HE2B_2023-2024/HE2B_Q1_2023-2024/ATLG3/TuringMachine-60131",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Mon Drive\HE2B_2023-2024\HE2B_Q1_2023-2024\ATLG3\TuringMachine-60131\src\main\resources\TuringMachine-assets" />
+      <recent name="G:\Mon Drive\HE2B_2023-2024\HE2B_Q1_2023-2024\ATLG3\TuringMachine-60131\src\main\resources" />
+      <recent name="G:\Mon Drive\HE2B_2023-2024\HE2B_Q1_2023-2024\ATLG3\TuringMachine-60131\src\main\resources\g60131\atlg\turingmachine\view" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="g60131.atlg.turingmachine.view" />
+      <recent name="g60131.atlg.turingmachine.model" />
+      <recent name="g60131.atlg.turingmachine" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="g60131.atlg.turingmachine.model.validator" />
+      <recent name="g60131.atlg.turingmachine.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.g60131.atlg.turingmachine.model.validator in TuringMachine-60131">
+    <configuration name="ConsoleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g60131.atlg.turingmachine.ConsoleApp" />
+      <module name="TuringMachine-60131" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g60131.atlg.turingmachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g60131.atlg.turingmachine.JavaFXApp" />
+      <module name="TuringMachine-60131" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g60131.atlg.turingmachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorOneToFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TuringMachine-60131" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g60131.atlg.turingmachine.model.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g60131.atlg.turingmachine.model.validator" />
+      <option name="MAIN_CLASS_NAME" value="g60131.atlg.turingmachine.model.validator.ValidatorOneToFourTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Validators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TuringMachine-60131" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g60131.atlg.turingmachine.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g60131.atlg.turingmachine.model" />
+      <option name="MAIN_CLASS_NAME" value="g60131.atlg.turingmachine.model.Validators" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="g60131.atlg.turingmachine.model.validator in TuringMachine-60131" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TuringMachine-60131" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g60131.atlg.turingmachine.model.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g60131.atlg.turingmachine.model.validator" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.g60131.atlg.turingmachine.model.validator in TuringMachine-60131" />
+        <item itemvalue="Application.JavaFXApp" />
+        <item itemvalue="Application.ConsoleApp" />
+        <item itemvalue="JUnit.ValidatorOneToFourTest" />
+        <item itemvalue="JUnit.Validators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d65886f6-12b8-4453-a6c9-6c81eca3bb27" name="Changes" comment="" />
+      <created>1700043085616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700043085616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TuringMachine_60131$g60131_atlg_turingmachine_model_in_TuringMachine_60131.ic" NAME="g60131.atlg.turingmachine.model in TuringMachine-60131 Coverage Results" MODIFIED="1701095254441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g60131.atlg.turingmachine.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TuringMachine_60131$g60131_atlg_turingmachine_model_validator_in_TuringMachine_60131.ic" NAME="g60131.atlg.turingmachine.model.validator in TuringMachine-60131 Coverage Results" MODIFIED="1702383120098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g60131.atlg.turingmachine.model.validator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TuringMachine_60131$Validators.ic" NAME="Validators Coverage Results" MODIFIED="1700945224730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g60131.atlg.turingmachine.model.*</FILTER>
+    </SUITE>
+  </component>
+</project>
