@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65886f6-12b8-4453-a6c9-6c81eca3bb27" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g60131/atlg/turingmachine/view/FxGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g60131/atlg/turingmachine/view/FxGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +26,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2YCwt3Tu30eUOZp80UUcbAGnjac" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -42,12 +46,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "G:/Mon Drive/HE2B_2023-2024/HE2B_Q1_2023-2024/ATLG3/TuringMachine-60131",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/cakir/Desktop/TuringMachine",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -69,7 +76,7 @@
       <recent name="g60131.atlg.turingmachine.model" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.g60131.atlg.turingmachine.model.validator in TuringMachine-60131">
+  <component name="RunManager" selected="Application.JavaFXApp">
     <configuration name="ConsoleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="g60131.atlg.turingmachine.ConsoleApp" />
       <module name="TuringMachine-60131" />
@@ -142,8 +149,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.g60131.atlg.turingmachine.model.validator in TuringMachine-60131" />
         <item itemvalue="Application.JavaFXApp" />
+        <item itemvalue="JUnit.g60131.atlg.turingmachine.model.validator in TuringMachine-60131" />
         <item itemvalue="Application.ConsoleApp" />
         <item itemvalue="JUnit.ValidatorOneToFourTest" />
         <item itemvalue="JUnit.Validators" />
@@ -158,8 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700043085616</updated>
+      <workItem from="1706120740120" duration="38000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -173,14 +184,14 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TuringMachine_60131$Validators.ic" NAME="Validators Coverage Results" MODIFIED="1700945224730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g60131.atlg.turingmachine.model.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/TuringMachine_60131$g60131_atlg_turingmachine_model_in_TuringMachine_60131.ic" NAME="g60131.atlg.turingmachine.model in TuringMachine-60131 Coverage Results" MODIFIED="1701095254441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>g60131.atlg.turingmachine.model.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/TuringMachine_60131$g60131_atlg_turingmachine_model_validator_in_TuringMachine_60131.ic" NAME="g60131.atlg.turingmachine.model.validator in TuringMachine-60131 Coverage Results" MODIFIED="1702383120098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>g60131.atlg.turingmachine.model.validator.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/TuringMachine_60131$Validators.ic" NAME="Validators Coverage Results" MODIFIED="1700945224730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>g60131.atlg.turingmachine.model.*</FILTER>
     </SUITE>
   </component>
 </project>
